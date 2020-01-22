@@ -1,3 +1,15 @@
 body {
     background-color: lavender;
+    
+}
+
+#dino-barn {
+    display: flex;
+    
+}
+
+.dinosaur {
+    border: dotted 5px lemonchiffon;
+    margin: 5px;
+    padding: 10px;
 }
